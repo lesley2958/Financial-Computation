@@ -1,7 +1,7 @@
 # Financial-Computation
 MongoDB Database - Financial Computation. 
 
-Usage:
+<b> Usage:</b>
 
 This database was created using PyMongo. Using modules to read in the excel files, I transferred all the table data to the database.
 
