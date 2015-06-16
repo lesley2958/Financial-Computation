@@ -13,5 +13,13 @@ There are five main collections, each one corresponding to a different excel fil
 
 I read in all the excel data by iterating through each row and column of each sheet, using the xlrd python module.
 
+<b> Instructions: </b>
+
+To create the database, the python script "FinancialComp.py" must be run on the terminal for each file, in this case 
+that being five. 
+
+To query, or search for, something in the database, the "query.py" python script must be run with the search as its 
+parameter.
+
 
 
