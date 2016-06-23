@@ -1,5 +1,8 @@
 # Financial-Computation
+Research Code 2015
+
 MongoDB Database - Financial Computation. 
+The purpose of this project was to build a database for specific types of economic/finacial documentation.
 
 <b> Usage:</b>
 
